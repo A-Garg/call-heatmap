@@ -7,9 +7,9 @@ Unfortunately this repository is not publicly usable, partially because it would
 
 I use SMS Backup+ to back up my call logs to Gmail under the label "Call log". I used Google Takeout to export my call log to an mbox format file 'Call log.mbox'.
 
-In the script, I hard-coded some of the in-hospital calls I've done, including their date/time and which hospital wards I cover. I respond to pages on these calls using my cellphone so that they are logged to Gmail.
+In the script, I hard-coded some of the in-hospital calls I've done, including their date/time and which hospital wards I cover. I respond to pages on these calls using my cellphone so that they are logged to Gmail. 
 
-The script returns a heatmap of average number of pages per hour, grouped by in-hospital call type.
+The script looks for phone calls made to the Kingston Health Sciences centre during the hours that I am on call, and returns a heatmap of average number of pages per hour, grouped by in-hospital call type.
 
 ![Heatmap](heatmap.png)
 
