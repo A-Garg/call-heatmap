@@ -11,5 +11,5 @@ In the script, I hard-coded some of the in-hospital calls I've done, including t
 
 The script returns a heatmap of average number of pages per hour, grouped by in-hospital call type.
 
-!./heatmap.png
+![Heatmap](heatmap.png)
 
