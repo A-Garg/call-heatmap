@@ -11,5 +11,5 @@ In the script, I hard-coded some of the in-hospital calls I've done, including t
 
 The script looks for phone calls made to the Kingston Health Sciences centre during the hours that I am on call, and returns a heatmap of average number of pages per hour, grouped by in-hospital call type.
 
-![Heatmap](heatmap.png)
+![Heatmap](heatmap.jpg)
 
